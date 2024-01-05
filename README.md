@@ -1,2 +1,3 @@
-# Mac-zsh-config
-zsh config(Mac) for Hackers
+### zsh config(Mac) for Hackers
+
+![](zsh.png)
