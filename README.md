@@ -1,4 +1,4 @@
-## zsh config(Mac) for Hackers
+## zsh config for Hackers (Mac) 
 
 ### Features
 - Prints the current working directory
